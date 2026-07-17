@@ -1,3 +1,6 @@
+This main.tf is used to create an EC2 instance 
+
+
 Terraform Installation
 https://developer.hashicorp.com/terraform/install
 
